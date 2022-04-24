@@ -115,7 +115,7 @@ Engenharia de Software
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> ![persona1](imaages/../images/persona1.png)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
