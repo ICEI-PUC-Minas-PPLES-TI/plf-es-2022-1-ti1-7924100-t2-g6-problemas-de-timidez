@@ -103,15 +103,9 @@ Engenharia de Software
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> O principal público alvo deste projeto são as pessoas tímidas, introvertidas, que possuem fobia social e/ou que possuem dificuldades em interagir com os outros indivíduos. Porém, esse software também é disponível para aqueles que se dispõem a ajudar os outros. Dessa forma todos poderão utilizar tanto como quem tem dificuldades quanto quem quer ajudar.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
+
 > Adicione informações sobre o público-alvo por meio de uma descrição
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
 > grupo achar mais conveniente.
