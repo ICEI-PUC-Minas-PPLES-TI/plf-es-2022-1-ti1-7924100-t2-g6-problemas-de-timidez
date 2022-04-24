@@ -111,11 +111,7 @@ Engenharia de Software
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Para que pudessem ser destacados os conteúdos mais relevantes a serem abordados nesse projeto, o grupo passou por uma etapa de entendimento, na qual consistia em analisar o comportamento e os interesses dos usuários, por meio de entrevistas. Dessa forma, com os resultados obtidos, foi possível criar personas e histórias de usuários, a fim de que a equipe pudesse conhecer mais sobre o público alvo.
 
 ## Personas e Mapas de Empatia
 
