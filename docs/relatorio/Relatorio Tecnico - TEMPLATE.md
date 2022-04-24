@@ -130,14 +130,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O site deve apresentar um sistema de login/castro para usuários | ALTA | 
+|RF-02| O site deve permitir ao usuário uma forma de compartilhar experiências vividas(Fórum)   | MÉDIA |
+|RF-03| O site deve permitir ao usuário adicionar e enviar mensagens privadas a outros usuários | MÉDIA | 
+|RF-04| O site deve fornecer uma lista de desafios semanais, para o usuário de forma coerente com a finalidade de ajudar a resolver o problema | ALTA | 
+|RF-05| O site deve permitir usuários a fazer comentários em outras publicações | BAIXO | 
+|RF-06| O site deve notificar a medida que os desafios forem compridos ou renovados | BAIXO | 
+|RF-07| O site deve conter uma tela apresentando o projeto e explicando e quem somos | BAIXO | 
+
 
 
 ### Requisitos não Funcionais
