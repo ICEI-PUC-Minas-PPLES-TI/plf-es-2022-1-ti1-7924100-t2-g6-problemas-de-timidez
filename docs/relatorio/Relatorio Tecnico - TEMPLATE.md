@@ -74,13 +74,13 @@ Engenharia de Software
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo deste projeto é ajudar as pessoas tímidas, que possuem dificuldades de se comunicar em público, e com isso auxiliá-las na contraversão de seus medos. Por sua vez, o medo às vezes faz com que o indivíduo não conquiste o que almeja e deve-se compreender que o medo deveria servir como um impulso de superação e não algo que impeça o indivíduo de conquistar o sucesso.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos ressaltar:
+Fornecer apoio às pessoas que possuem dificuldades em se comunicar com desconhecidos;
+Fazer com que o nosso público alvo consiga fazer mais amizades com mais facilidade;
+Resolver o problema de uma maneira não tediante e sim divertida.
+
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
