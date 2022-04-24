@@ -123,7 +123,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Ana Beatriz         | acabar com a minha timidez de maneira divertida           | não desistir no meio por causa do tédio.               |
 |Ana Beatriz       | conseguir fazer uma apresentação de trabalho sem ficar desesperada                 | conseguir uma nota boa e que o público consiga entender de maneira clara. |
 |José         | conseguir interagir mais com as pessoas           | ser incluído nas atividades.               |
-
+|José         | expressar mais as minhas opiniões           | ajudar as pessoas terem visão de uma coisa de outro ponto de vista.               |
+|Sarah         | conseguir falar com as pessoas sem ter que se preocupar no que elas pensam           | conversar mais com as pessoas com mais facilidade.               |
+|Sarah         | acabar com a timidez           | conseguir mais oportunidades ao invés de perdê-las.               |
 
 
 ## Requisitos
