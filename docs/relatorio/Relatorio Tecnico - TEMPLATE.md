@@ -81,9 +81,6 @@ Engenharia de Software
 > - Fazer com que o nosso público alvo consiga fazer mais amizades com mais facilidade;
 > - Resolver o problema de uma maneira não tediante e sim divertida.
 
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
