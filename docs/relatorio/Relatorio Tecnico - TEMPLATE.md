@@ -9,13 +9,11 @@ Engenharia de Software
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Beatriz de Oliveira Silveira
+> - Maria Eduarda Chrispim Santana 
+> - Rafael Vasconcellos Vaz de Mello
+> - Vitória Ye Miao
 
 # Estrutura do Documento
 
