@@ -121,7 +121,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Ana Beatriz         | acabar com a minha timidez de maneira divertida           | não desistir no meio por causa do tédio.               |
-|Ana Beatriz       | Alterar permissões                 | Permitir que possam administrar contas |
+|Ana Beatriz       | conseguir fazer uma apresentação de trabalho sem ficar desesperada                 | conseguir uma nota boa e que o público consiga entender de maneira clara. |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
