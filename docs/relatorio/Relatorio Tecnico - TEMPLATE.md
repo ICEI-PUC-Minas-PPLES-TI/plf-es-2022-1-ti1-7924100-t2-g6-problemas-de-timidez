@@ -105,12 +105,6 @@ Engenharia de Software
 
 > O principal público alvo deste projeto são as pessoas tímidas, introvertidas, que possuem fobia social e/ou que possuem dificuldades em interagir com os outros indivíduos. Porém, esse software também é disponível para aqueles que se dispõem a ajudar os outros. Dessa forma todos poderão utilizar tanto como quem tem dificuldades quanto quem quer ajudar.
 
-> ![mapa](images/mapa.png)
-
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
