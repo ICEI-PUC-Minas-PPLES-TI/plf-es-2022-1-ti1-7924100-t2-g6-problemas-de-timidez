@@ -74,12 +74,12 @@ Engenharia de Software
 
 ## Objetivos
 
-O objetivo deste projeto é ajudar as pessoas tímidas, que possuem dificuldades de se comunicar em público, e com isso auxiliá-las na contraversão de seus medos. Por sua vez, o medo às vezes faz com que o indivíduo não conquiste o que almeja e deve-se compreender que o medo deveria servir como um impulso de superação e não algo que impeça o indivíduo de conquistar o sucesso.
+> O objetivo deste projeto é ajudar as pessoas tímidas, que possuem dificuldades de se comunicar em público, e com isso auxiliá-las na contraversão de seus medos. Por sua vez, o medo às vezes faz com que o indivíduo não conquiste o que almeja e deve-se compreender que o medo deveria servir como um impulso de superação e não algo que impeça o indivíduo de conquistar o sucesso.
 
-Como objetivos específicos, podemos ressaltar:
-Fornecer apoio às pessoas que possuem dificuldades em se comunicar com desconhecidos;
-Fazer com que o nosso público alvo consiga fazer mais amizades com mais facilidade;
-Resolver o problema de uma maneira não tediante e sim divertida.
+> Como objetivos específicos, podemos ressaltar:
+> - Fornecer apoio às pessoas que possuem dificuldades em se comunicar com desconhecidos;
+> - Fazer com que o nosso público alvo consiga fazer mais amizades com mais facilidade;
+> - Resolver o problema de uma maneira não tediante e sim divertida.
 
 > 
 > **Links Úteis**:
