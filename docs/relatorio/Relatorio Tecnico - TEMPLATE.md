@@ -215,8 +215,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > ![modelo](images/modelo1.png)
 > ![tela](images/tela.png)
+
 > A tela permitirá ao usuário adentrar no site e em todas as funcionalidades do mesmo ou direcioná-lo para ele se inscrever no site. Sendo uma das 2 telas que fogem do padrão por não possuir a parte do perfil ou tela lateral.
+
 > ![tela2](images/tela2.png)
+
 > A tela permitirá que o usuário se inscreva no site, após o preenchimento dos dados ele irá para a tela fora. Sendo uma das 2 telas que fogem do padrão por não possuir a parte do perfil ou tela lateral.
 
 
