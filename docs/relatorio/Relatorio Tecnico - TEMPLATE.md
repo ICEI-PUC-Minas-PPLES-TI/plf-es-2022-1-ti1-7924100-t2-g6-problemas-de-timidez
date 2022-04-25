@@ -224,8 +224,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > ![tela3](images/tela3.png)
 
->A tela principal do site, contendo no bloco de conteúdo um sistema para mostrar postagens de outros usuários, além de permitir o mesmo a fazer suas próprias. Na parte de perfil terá como alterar o avatar além de algumas informações próprias. Na barra lateral como o padrão terão as tarefas da semana e as sugestões de perfis parecidos com o seu.
+> A tela principal do site, contendo no bloco de conteúdo um sistema para mostrar postagens de outros usuários, além de permitir o mesmo a fazer suas próprias. Na parte de perfil terá como alterar o avatar além de algumas informações próprias. Na barra lateral como o padrão terão as tarefas da semana e as sugestões de perfis parecidos com o seu.
 
+> ![tela4](images/tela4.png)
+
+> A tela de bate papo, tem como base a conversa privada de membros. Na parte de conteúdo o foco será nas mensagens enviadas e enviadas. Na parte do perfil será substituído para as conversas com outros usuários. Na barra lateral continuará seguindo o padrão.
 
 
 > **Links Úteis**:
