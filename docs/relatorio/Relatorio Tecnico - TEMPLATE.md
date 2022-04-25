@@ -213,7 +213,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > Barra Lateral:
 > - Apresentou de forma clara elementos complementares do site, como sugestão de usuários para a interação e os desafios pendentes.
 
-> ![modelo](images/modelo.png)
+> ![modelo](images/modelo1.png)
 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
