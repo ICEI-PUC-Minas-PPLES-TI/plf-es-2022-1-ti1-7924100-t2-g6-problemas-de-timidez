@@ -200,12 +200,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > Logo:
 > - A logo do site como o próprio nome indica
+
 > Navbar/Cabeçalho: 
 > - Onde se terá acesso a todas as outras páginas do site, servindo como menu principal
+
 > Perfil:
 > - Aparecerá normalmente informações do perfil do usuário, alem de servir de atalho para ir para outras publicações postadas pelo mesmo anteriormente
+
 > Conteúdo:
 > - Onde se terá o conteúdo da tela
+
 > Barra Lateral:
 > - Apresentou de forma clara elementos complementares do site, como sugestão de usuários para a interação e os desafios pendentes.
 
