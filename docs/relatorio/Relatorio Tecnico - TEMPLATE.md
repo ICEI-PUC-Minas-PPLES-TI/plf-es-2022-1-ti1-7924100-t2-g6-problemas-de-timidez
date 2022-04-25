@@ -240,7 +240,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > - Beatriz: contextualização do projeto e definição do problema.
 > - Maria Eduarda: identificação do público alvo e controle do quadro de tarefas.
-> - Vitória: identificação dos objetivos do projeto.
+> - Vitória: identificação dos objetivos do projeto e organização do GitHub.
 > - Rafael: criação do modelo do wireframe das telas e identificação dos requisitos e das restrições.
 
 
