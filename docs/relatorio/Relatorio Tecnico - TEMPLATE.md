@@ -130,10 +130,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
-
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
+
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -149,10 +150,14 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01| O site deve ser de fácil usabilidade | MÉDIA | 
+|RNF-02| O site tem de ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-03| O site deve ser compatível com os principais navegadores usados | MÉDIA | 
+|RNF-04| O site deve ser publicado em um ambiente acessível publicamente na Internet | MÉDIA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
