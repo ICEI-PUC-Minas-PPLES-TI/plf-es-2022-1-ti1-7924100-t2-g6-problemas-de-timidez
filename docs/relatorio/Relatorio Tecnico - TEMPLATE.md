@@ -231,7 +231,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-> A equipe se reuniu durante as aulas de quartas-feiras para a discussão de novas ideias, além de se reunir todos os dias após as aulas, por cerca de 10 minutos, para que os componentes pudessem relatar como estava o progresso do trabalho de cada um, sendo que às sextas-feiras o grupo se reunia para discutir ideias de solução para o problema.
+> A equipe se reuniu durante as aulas de quartas-feiras para a discussão de novas ideias, além de se reunir todos os dias após as aulas, por cerca de 20 minutos, para que os componentes pudessem relatar como estava o progresso do trabalho de cada um, sendo que às sextas-feiras o grupo se reunia para discutir ideias de solução para o problema.
 
 
 ## Divisão de Papéis
@@ -250,10 +250,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro, W3.CSS |  https://miro.com/XXXXXXX https://www.w3schools.com/w3css/defaulT.asp | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Ferramentas de comunicação | WhatsApp, Gmail |  https://web.whatsapp.com/ https://www.gmail.com/ | 
+
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
