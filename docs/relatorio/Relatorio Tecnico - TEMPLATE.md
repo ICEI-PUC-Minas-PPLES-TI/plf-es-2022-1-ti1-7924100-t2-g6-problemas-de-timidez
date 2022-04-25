@@ -222,6 +222,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > A tela permitirá que o usuário se inscreva no site, após o preenchimento dos dados ele irá para a tela fora. Sendo uma das 2 telas que fogem do padrão por não possuir a parte do perfil ou tela lateral.
 
+> ![tela3](images/tela3.png)
+
+>A tela principal do site, contendo no bloco de conteúdo um sistema para mostrar postagens de outros usuários, além de permitir o mesmo a fazer suas próprias. Na parte de perfil terá como alterar o avatar além de algumas informações próprias. Na barra lateral como o padrão terão as tarefas da semana e as sugestões de perfis parecidos com o seu.
+
 
 
 > **Links Úteis**:
