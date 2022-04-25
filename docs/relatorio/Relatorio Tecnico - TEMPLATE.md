@@ -53,6 +53,7 @@ Engenharia de Software
 # Introdução
 
 > A palavra timidez vem do latim “timidus”, que significa “aquele que tem medo”. Caracteriza-se pela obsessiva preocupação com as atitudes, reações e pensamentos dos outros. Alguns autores defendem que a timidez esteja inclusive ligada à origem de alguns ataques de pânico. Outros autores defendem que a timidez deve ser definida como “ansiedade social”, para descrever a característica de medo diante de outras pessoas ou de contextos sociais específicos.  A timidez funciona ainda como um mecanismo de defesa que permite à pessoa avaliar situações novas através de uma atitude de cautela e buscar a resposta adequada para a situação.
+
 > Existem três tipos de timidez:
 
 > - Timidez situacional: A inibição se manifesta em ocasiões específicas, e portanto o prejuízo é localizado (a pessoa interage bem com amigos, autoridades, familiares, mas sente vergonha ao falar em público );
