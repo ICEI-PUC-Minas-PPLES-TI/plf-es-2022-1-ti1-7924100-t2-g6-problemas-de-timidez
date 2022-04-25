@@ -82,8 +82,7 @@ Engenharia de Software
 
 ## Público-Alvo
 
-> O principal público alvo deste projeto são as pessoas tímidas, introvertidas, que possuem fobia social e/ou que possuem dificuldades em interagir com os outros indivíduos. Porém, esse software também é disponível para aqueles que se dispõem a ajudar os outros. Dessa forma todos poderão utilizar tanto como quem tem dificuldades quanto quem quer ajudar.
-
+> O principal público alvo deste projeto são as pessoas tímidas, introvertidas, que possuem fobia social e/ou que possuem dificuldades em interagir com os outros indivíduos. Porém, esse software também é disponível para aqueles que se dispõem a ajudar os outros. Dessa forma, as pessoas poderão usar tanto como quem tem dificuldades quanto quem quer ajudar.
 
 # Especificações do Projeto
 
@@ -155,13 +154,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-> Pelo acordado e conversando com a equipe estamos projetando o site de forma que ele seja focado em quesitos como agilidade, usabilidade e acessibilidade. Desta forma o projeto terá um visual padronizado em que todas as telas funcionarão em desktops e dispositivos móveis.
-
+> Pelo acordado e conversando com a equipe, o site está sendo projetado de forma que seja focado em quesitos como agilidade, usabilidade e acessibilidade. Desta forma, o projeto terá um visual padronizado em que todas as telas funcionarão em desktops e dispositivos móveis.
 
 ## User Flow
 
-> Bom, o site funcionará de forma que ao se acessar terá a tela de login, dando a opção de logar ou cadastrar, quando se clicar em cadastrar irá ir para a tela cadastro, e ao clicar no login irá para a tela fórum. A tela forum será a principal que garantirá acesso às demais telas.
-
+> O site funcionará de forma que, ao se acessar, terá a tela de login, dando a opção de logar ou cadastrar. Ao clicar em cadastrar, irá para a tela cadastro, e ao clicar no login, irá para a tela fórum. A tela fórum será a principal que garantirá acesso às demais telas.
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
