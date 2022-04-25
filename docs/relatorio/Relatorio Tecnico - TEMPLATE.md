@@ -63,23 +63,7 @@ Engenharia de Software
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> A timidez, por si só, não deve ser vista como um problema. Ela é uma parte da personalidade de indivíduos que têm características especiais e muitas vantagens, como por exemplo, são mais observadoras e detalhistas. Porém existem algumas dificuldades que as pessoas tímidas terão que enfrentar durante a vida: Dificuldade para ser proativo, problemas para desenvolver relacionamentos e dificuldade em expressar opiniões e ideias.  
 
 ## Objetivos
 
@@ -93,19 +77,8 @@ Engenharia de Software
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A timidez costuma não ser observada dentro das salas, pois o tímido não causa problemas, e com isso, não chama atenção. Um recente estudo da faculdade de Windson, no Canadá, aponta que cerca de metade da população sofre com a timidez. Esse número aumenta consideravelmente ao se considerar que mesmo os mais desinibidos têm ao menos uma “crise de timidez” em algum momento da vida.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
