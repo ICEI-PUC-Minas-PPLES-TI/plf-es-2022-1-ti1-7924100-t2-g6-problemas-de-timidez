@@ -214,6 +214,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - Apresentou de forma clara elementos complementares do site, como sugestão de usuários para a interação e os desafios pendentes.
 
 > ![modelo](images/modelo1.png)
+> ![tela](images/tela.png)
 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
