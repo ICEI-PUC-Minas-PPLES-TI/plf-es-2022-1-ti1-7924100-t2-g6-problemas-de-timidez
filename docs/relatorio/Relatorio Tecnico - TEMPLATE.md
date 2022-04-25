@@ -171,22 +171,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.        |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+> Pelo acordado e conversando com a equipe estamos projetando o site de forma que ele seja focado em quesitos como agilidade, usabilidade e acessibilidade. Desta forma o projeto terá um visual padronizado em que todas as telas funcionarão em desktops e dispositivos móveis.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -208,14 +196,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Wireframes
-
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
+> Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que será apresentado a seguir contendo 5 elementos:
 > 
+> Logo:
+> - A logo do site como o próprio nome indica
+> Navbar/Cabeçalho: 
+> - Onde se terá acesso a todas as outras páginas do site, servindo como menu principal
+> Perfil:
+> - Aparecerá normalmente informações do perfil do usuário, alem de servir de atalho para ir para outras publicações postadas pelo mesmo anteriormente
+> Conteúdo:
+> - Onde se terá o conteúdo da tela
+> Barra Lateral:
+> - Apresentou de forma clara elementos complementares do site, como sugestão de usuários para a interação e os desafios pendentes.
+
+> ![modelo](images/modelo.png)
+
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [Figma](https://www.figma.com/)
