@@ -52,6 +52,14 @@ Engenharia de Software
 
 # Introdução
 
+> A palavra timidez vem do latim “timidus”, que significa “aquele que tem medo”. Caracteriza-se pela obsessiva preocupação com as atitudes, reações e pensamentos dos outros. Alguns autores defendem que a timidez esteja inclusive ligada à origem de alguns ataques de pânico. Outros autores defendem que a timidez deve ser definida como “ansiedade social”, para descrever a característica de medo diante de outras pessoas ou de contextos sociais específicos.  A timidez funciona ainda como um mecanismo de defesa que permite à pessoa avaliar situações novas através de uma atitude de cautela e buscar a resposta adequada para a situação.
+> Existem três tipos de timidez:
+
+> - Timidez situacional: A inibição se manifesta em ocasiões específicas, e portanto o prejuízo é localizado (a pessoa interage bem com amigos, autoridades, familiares, mas sente vergonha ao falar em público );
+> - Timidez crônica: É a mais abrangente. A inibição se manifesta em todas as formas de convívio social. A pessoa tem medo de falar em público, não consegue fazer amigos, falar com estranhos e intimida-se diante das autoridades;
+> - Timidez “proposital”: Um termo que designa a misantropia. O grau dessa timidez chega a ser transformado em “sociopatismo erustido”. Um tímido legítimo tem vergonha de si mesmo, um misantropo tem vergonha da sociedade e por isso não se socializa;
+
+
 ## Problema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
