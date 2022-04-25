@@ -254,7 +254,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Ferramentas de comunicação | WhatsApp, Gmail |  https://web.whatsapp.com/ https://www.gmail.com/ | 
 |Documentos do projeto  | Google Drive |  https://drive.google.com/drive/folders/1irJwwvXyWQlH7NXjp_X4qWBH00CRXOyH?usp=sharing |
 |Gerenciamento do Projeto  | Trello |  https://trello.com/b/DrNCoPO4/gerenciamento-do-projeto-timidez |
-> A maioria das reuniões da equipe foram feitas presencialmente, mas o WhatsApp foi a ferramenta de comunicação utilizada pelo grupo para discussão online, pois todos possuem acesso a essa plataforma, e o Gmail foi usado para o compartilhamento de documentos e PowerPoints. Já o Miro, foi utilizado para organizar o processo durante a Etapa de Entendimento (Design Thinking). Além disso, utilizou-se o W3.CSS para criar o protótipo, ou seja, para a construção dos projetos do fluxo das telas.
 
 > A maioria das reuniões da equipe foram feitas presencialmente, mas o WhatsApp foi a ferramenta de comunicação utilizada pelo grupo para discussão online, pois todos possuem acesso a essa plataforma, e o Gmail foi usado para o compartilhamento de documentos e PowerPoints. Já o Miro, foi utilizado para organizar o processo durante a Etapa de Entendimento (Design Thinking). Além disso, utilizou-se o W3.CSS para criar o protótipo, ou seja, para a construção dos projetos do fluxo das telas.
 
