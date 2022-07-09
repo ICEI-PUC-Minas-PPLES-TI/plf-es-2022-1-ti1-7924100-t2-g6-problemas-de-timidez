@@ -1,0 +1,347 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Feed</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
+</style>
+</head>
+<body class="w3-theme-l5">
+
+<!-- Navbar -->
+<div class="w3-top">
+ <div class="w3-bar w3-theme-d2 w3-left-align w3-large">
+  <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-theme-d4"><img src="Screenshot_4-removebg-preview (1).png" style="height:40px;width:40px"> TIMIDEX</a>
+  <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Feed"><i class="fa fa-globe"></i></a>
+  <a href="arvore.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Desafio"><i class="fa fa-calendar-check-o"></i></a>
+  <a href="forum.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Forum"><i class="fa fa-envelope"></i></a>
+  <div class="w3-dropdown-hover w3-hide-small">
+    <button class="w3-button w3-padding-large" title="Notificação"><i class="fa fa-bell"></i><span class="w3-badge w3-right w3-small w3-green">3</span></button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="width:300px">
+      <a href="#" class="w3-bar-item w3-button">Uma nova solicitaçao de amizade</a>
+      <a href="#" class="w3-bar-item w3-button">Ana Beatriz postou na sua linha do tempo</a>
+      <a href="#" class="w3-bar-item w3-button">Manu curtiu seu post</a>
+    </div>
+  </div>
+  <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white" title="Minha conta">
+    <img src="pessoa2.jpg" class="w3-circle" style="height:23px;width:23px" alt="Avatar">
+  </a>
+ </div>
+</div>
+
+<!-- Navbar on small screens -->
+<div id="navDemo" class="w3-bar-block w3-theme-d2 w3-hide w3-hide-large w3-hide-medium w3-large">
+  <a href="#" class="w3-bar-item w3-button w3-padding-large">Barra</a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large">Feed</a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large">Forum</a>
+  <a href="arvore.html" class="w3-bar-item w3-button w3-padding-large">Desafios</a>
+</div>
+
+<!-- Page Container -->
+<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">    
+  <!-- The Grid -->
+  <div class="w3-row">
+    <!-- Left Column -->
+    <div class="w3-col m3">
+      <!-- Profile -->
+      <div class="w3-card w3-round w3-white">
+        <div class="w3-container">
+         <h4 class="w3-center">Meu perfil</h4>
+         <p class="w3-center"><img src="pessoa2.jpg" class="w3-circle" style="height:106px;width:106px" alt="Avatar"></p>
+         <hr>
+         <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Engenharia de Software, PUC</p>
+         <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i> Belo Horizonte, MG</p>
+         <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> xx/xx/xxxx </p>
+        </div>
+      </div>
+      <br>
+      
+      <!-- Accordion -->
+      <div class="w3-card w3-round">
+        <div class="w3-white">
+
+          <button onclick="myFunction('Demo3')" class="w3-button w3-block w3-theme-l1 w3-left-align"><i class="fa fa-users fa-fw w3-margin-right"></i> Minhas fotos</button>
+          <div id="Demo3" class="w3-hide w3-container">
+         <div class="w3-row-padding">
+         <br>
+           <div class="w3-half">
+             <img src="anonimo.png" style="width:100%" class="w3-margin-bottom">
+           </div>
+           <div class="w3-half">
+             <img src="anonimo.png" style="width:100%" class="w3-margin-bottom">
+           </div>
+           <div class="w3-half">
+             <img src="anonimo.png" style="width:100%" class="w3-margin-bottom">
+           </div>
+           <div class="w3-half">
+             <img src="anonimo.png" style="width:100%" class="w3-margin-bottom">
+           </div>
+           <div class="w3-half">
+             <img src="anonimo.png" style="width:100%" class="w3-margin-bottom">
+           </div>
+           <div class="w3-half">
+             <img src="anonimo.png" style="width:100%" class="w3-margin-bottom">
+           </div>
+         </div>
+          </div>
+        </div>      
+      </div>
+      <br>
+      
+      <!-- Interests --> 
+      <div class="w3-card w3-round w3-white w3-hide-small">
+        <div class="w3-container">
+          <p>Interesses</p>
+          <p>
+            <span class="w3-tag w3-small w3-theme-d5">Animais</span>
+            <span class="w3-tag w3-small w3-theme-d4">Jogos</span>
+            <span class="w3-tag w3-small w3-theme-d3">Series</span>
+            <span class="w3-tag w3-small w3-theme-d2">Musicas</span>
+            <span class="w3-tag w3-small w3-theme-d1">Amigos</span>
+            <span class="w3-tag w3-small w3-theme">Cozinhar</span>
+            <span class="w3-tag w3-small w3-theme-l1">Fotografia</span>
+            <span class="w3-tag w3-small w3-theme-l2">Programaçao</span>
+            <span class="w3-tag w3-small w3-theme-l3">Lives</span>
+            <span class="w3-tag w3-small w3-theme-l4">Arte</span>
+            <span class="w3-tag w3-small w3-theme-l5">Dormir</span>
+          </p>
+        </div>
+      </div>
+      <br>
+      
+      <!-- Alert Box -->
+      <div class="w3-container w3-display-container w3-round w3-theme-l4 w3-border w3-theme-border w3-margin-bottom w3-hide-small">
+        <span onclick="this.parentElement.style.display='none'" class="w3-button w3-theme-l3 w3-display-topright">
+          <i class="fa fa-remove"></i>
+        </span>
+        <p><strong>Ei você!</strong></p>
+        <p>Desafio de hoje disponivel!</p>
+      </div>
+    
+    <!-- End Left Column -->
+    </div>
+    
+    <!-- Middle Column -->
+    <div class="w3-col m7">
+    
+      <div class="w3-row-padding">
+        <div class="w3-col m12">
+          <div class="w3-card w3-round w3-white">
+            <div class="w3-container w3-padding">
+              <h6 class="w3-opacity">O que está sentindo?</h6>
+              <p contenteditable="true" class="w3-border w3-padding">Status: Sentindo-se triste</p>
+              <button type="button" class="w3-button w3-theme"><i class="fa fa-pencil"></i>  Post</button> 
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
+        <img src="anonimo.png" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+        <span class="w3-right w3-opacity">1 min</span>
+        <h4>Helena Miranda</h4><br>
+        <hr class="w3-clear">
+        <p>Hoje fui em um campo com 2 amigos que fiz nessa plataforma. Foi maravilhoso!!! Fizemos um piquenique e nos conectamos muito, descobri que temos muito mais em comum do que pensava, acredita nisso?
+            Tirei apenas estas duas fotos pois no momento nem lembrei direito que celular existia e olha que antes eu usava ele para evitar qualquer tipo de interaçao com as pessoas. 
+            Enfim... vou levar os amigos que fiz aqui para toda a vida!! 
+        </p>
+          <div class="w3-row-padding" style="margin:0 -16px">
+            <div class="w3-half">
+              <img src="o_que_levar_para_um_piquenique_29181_600.jpg" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
+            </div>
+            <div class="w3-half">
+              <img src="pique.png" style="width:100%" alt="Nature" class="w3-margin-bottom">
+          </div>
+        </div>
+        <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
+        <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i>  Comentarios</button> 
+      </div>
+      
+      <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
+        <img src="anonimo.png" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+        <span class="w3-right w3-opacity">16 min</span>
+        <h4>Jane Doe</h4><br>
+        <hr class="w3-clear">
+        <p>Ultimamento não tenho forças nem para sair da cama direito, desanimada total. Alguem afim de conversar???</p>
+        <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
+        <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i> Comentarios</button> 
+      </div>  
+
+      <div class="w3-container w3-card w3-white w3-round w3-margin"><br>
+        <img src="anonimo.png" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:60px">
+        <span class="w3-right w3-opacity">32 min</span>
+        <h4>Dan Reynolds</h4><br>
+        <hr class="w3-clear">
+        <p>Vocês também sao assim?</p>
+        <img src="palcoitaliano1.jpg" style="width:100%" class="w3-margin-bottom">
+        <p>Não sei vocês mas eu tenho muita dificuldade para falar em público, mesmo decorando tudo dias antes, chego e travo. Hoje vou fazer uma apresentação representando minha empresa nesse local da foto e certeza que na hora vai me dar branco total, fico ansioso
+            só de pensar kkkkkkkkk
+        </p>
+        <button type="button" class="w3-button w3-theme-d1 w3-margin-bottom"><i class="fa fa-thumbs-up"></i>  Like</button> 
+        <button type="button" class="w3-button w3-theme-d2 w3-margin-bottom"><i class="fa fa-comment"></i> Comentarios</button> 
+      </div> 
+      
+    <!-- End Middle Column -->
+    </div>
+    
+    <!-- Right Column -->
+    <div class="w3-col m2">
+      <div class="w3-card w3-round w3-white w3-center">
+        <div class="w3-container">
+          <p>Continue sua jornada:</p>
+          <img src="desafios.png" alt="Forest" style="width:100%;">
+          <p><strong>Confira os desafios de hoje</strong></p>
+          <p>2 disponiveis!</p>
+          <p><button type="button" class="btn btn-success btn-rounded">
+            <a class="link" href="arvore.html">Saiba mais </i></a>
+          </button></p>
+        </div>
+      </div>
+      <br>
+      
+      <div class="w3-card w3-round w3-white w3-center">
+        <div class="w3-container">
+          <p>Solicitação de amizade</p>
+          <img src="pessoa1.jpg" alt="Avatar" style="width:50%"><br>
+          <span>Alex O'Connor</span>
+          <div class="w3-row w3-opacity">
+            <div class="w3-half">
+              <button class="w3-button w3-block w3-green w3-section" title="Accept"><i class="fa fa-check"></i></button>
+            </div>
+            <div class="w3-half">
+              <button class="w3-button w3-block w3-red w3-section" title="Decline"><i class="fa fa-remove"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+      
+      <div class="w3-card w3-round w3-white w3-padding-32 w3-center">
+        <p><i class="fa fa-users w3-xxlarge"></i></p>
+      </div>
+      <br>
+      
+      <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
+        <div class="w3-section">
+            <label>Clique aqui e realize a nossa pesquisa de satisfação</label>
+            <p><button type="button" class="btn btn-success btn-rounded">
+              <a class="link" href="index.html">Saiba mais</i></a>
+            </button></p>
+          </div>
+      </div>
+      <br>
+      
+      
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+<!-- End Page Container -->
+</div>
+<br>
+
+ <!-- Footer -->
+ <footer class="w3-container w3-theme-d5">
+    <div class="w3-row-padding">
+      <div class="w3-third">
+        <h3>Sobre nós</h3>
+        <p>Timidex tem como objetivo ajudar pessoas a superar a timidez e encontrar pessoas com os mesmos interesses para trocarem conversas. Venha nos conhecer melhor e descubra que você é mais forte que pensa!</p>     
+        <footer class="w3-container w3-theme-d5">
+            <h4>Nos acompanhe em outras redes sociais</h4> 
+            <a class="w3-button w3-large w3-teal" href="javascript:void(0)" title="Facebook"><i class="fa fa-facebook"></i></a>
+            <a class="w3-button w3-large w3-teal" href="javascript:void(0)" title="Twitter"><i class="fa fa-twitter"></i></a>
+            <a class="w3-button w3-large w3-teal" href="javascript:void(0)" title="Google +"><i class="fa fa-google-plus"></i></a>
+            <a class="w3-button w3-large w3-teal" href="javascript:void(0)" title="Google +"><i class="fa fa-instagram"></i></a>
+            <a class="w3-button w3-large w3-teal w3-hide-small" href="javascript:void(0)" title="Linkedin"><i class="fa fa-linkedin"></i></a>
+            <p> Obrigada por fazer parte do nosso projeto!</p> 
+      </div>
+    
+      <div class="w3-third">
+        <h3>Integrantes</h3>
+        <ul class="w3-ul">
+          <li class="w3-padding-16 w3-hover-black">
+            <img src="anonimo.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Beatriz de Oliveira Silveira</span><br>
+            <span>Estudante Engenharia de Software</span>
+          </li>
+          <li class="w3-padding-16 w3-hover-black">
+            <img src="anonimo.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Maria Eduarda Chrispim Santana</span><br>
+            <span>Estudante Engenharia de Software</span>
+          </li> 
+          <li class="w3-padding-16 w3-hover-black">
+            <img src="anonimo.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Rafael Vasconcellos Vaz de Mello</span><br>
+            <span>Estudante Engenharia de Software</span>
+          </li> 
+          <li class="w3-padding-16 w3-hover-black">
+            <img src="anonimo.png" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Vitória Ye Miao</span><br>
+            <span>Estudante Engenharia de Software</span>
+          </li> 
+        </ul>
+      </div>
+
+      <div class="w3-third">
+        <h3>LINKS</h3>
+              </div>
+                <h5><a href=https://www.vittude.com/blog/timidez/>
+                    Timidez: 7 estratégias para dar um chega pra lá nela.</a></h5>
+                    <h5><a href=https://www.youtube.com/watch?v=tlBKCWRJ7gE>
+                      COMO SUPERAR A TIMIDEZ | ANAHY D'AMICO.</a></h5>
+                        <h5><a href=https://superela.com/como-vencer-timidez/>
+                            Uma forma divertida de como vencer a timidez de vez.</a></h5>
+                            <h5><a href=https://www.youtube.com/watch?v=Ozf4dvma1_Q>
+                                Timidez e introversão.</a></h5>
+                                <h5><a href=https://www.youtube.com/watch?v=1XdXX0K401Q>
+                                  8 Jeitos Comprovados Para Deixar De Ser Tímido.</a></h5>
+                                    <h5><a href=https://www.youtube.com/watch?v=2VgjEUCYyj4>
+                                      O MELHOR VÍDEO PARA VENCER A TIMIDEZ | SEJA SUA MELHOR VERSÃO.</a></h5>
+                                        <h5><a href=https://www.youtube.com/watch?v=fZxFw9UYKpM>
+                                          ESSA MENTALIDADE VAI ACABAR COM A SUA TIMIDEZ.</a></h5>
+
+              </div>
+            </div>
+
+      </div>
+    </div>
+      
+</footer>
+ 
+<script>
+// Accordion
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+    x.previousElementSibling.className += " w3-theme-d1";
+  } else { 
+    x.className = x.className.replace("w3-show", "");
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace(" w3-theme-d1", "");
+  }
+}
+
+// Used to toggle the menu on smaller screens when clicking on the menu button
+function openNav() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+</body>
+</html> 
