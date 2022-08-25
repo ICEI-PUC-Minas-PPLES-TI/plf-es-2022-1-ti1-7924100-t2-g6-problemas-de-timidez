@@ -1,0 +1,38 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: T2-G6 - Problemas de timidez e falar em público
+authors:
+  - family-names: de Oliveira Silveira
+    given-names: Beatriz
+  - family-names: Chrispim Santana
+    given-names: Maria Eduarda
+  - family-names: Ye Miao
+    given-names: Vitória
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Augusto Lara Soares
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Jonathan
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+
+keywords:
+  - timidez
+  - falar em público
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t2-g6-problemas-de-timidez
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14    
